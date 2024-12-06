@@ -110,3 +110,5 @@ class NewsService
             echo 'Không thể kết nối cơ sở dữ liệu!';
         }
     }
+}
+
