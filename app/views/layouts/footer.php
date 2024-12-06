@@ -19,10 +19,10 @@
         </div>
         <div style="max-width: 50%; text-align: right;">
             <p style="margin-right: 50px; margin-top: 100px; font-size: 20px">
-                Tổng biên tập: Đỗ Phương Quỳnh<br>
+                Tổng biên tập: Nguyễn Xuân Hùng<br>
                 Địa chỉ: Tòa A FPT Tower, Dịch Vọng, Cầu Giấy, Hà Nội<br>
-                Điện thoại: 024 7300 8899<br>
-                Email: nentangweb@gmail.com
+                Điện thoại: 037 538 4174<br>
+                Email: xuanhung17032003@gmail.com
             </p>
         </div>
     </div>
